@@ -1,11 +1,29 @@
 
 # assignment-week0--
 Resizing the Ubuntu window to fit the screen
+
+
+
 $ sudo apt update
+
+
+
+
 $ sudo apt install build-essential dkms linux-headers-$(uname -r)
+
+
+
 $ cd /media/spatha/VBox_GAs_7.1.8/
+
+
 $ ./autorun.sh
+
+
+
 TOOL CHECK
+
+
+
 <img width="788" height="199" alt="Screenshot from 2025-09-20 16-19-14" src="https://github.com/user-attachments/assets/6542120d-3bbf-425d-8f4e-ad2f40cedbb3" />
 Yosys
 $ sudo apt-get update
