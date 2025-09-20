@@ -43,7 +43,8 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text]
+![Alt Text]<img width="799" height="207" alt="Screenshot from 2025-09-20 16-20-18" src="https://github.com/user-attachments/assets/6a52f10c-6c6c-4075-aece-5807e17abb33" />
+
 
 
 #### <ins>**gtkwave**</ins>
