@@ -102,7 +102,14 @@ $ sudo apt-get install iverilog
 Alt Text
 
 gtkwave
+
+
+
 $ sudo apt-get update
+
+
 $ sudo apt install gtkwave
+
+
 Alt Text
 <img width="998" height="626" alt="Screenshot from 2025-09-20 16-46-29" src="https://github.com/user-attachments/assets/3831b1a4-8a7a-4520-bdf9-7c45d6b729f8" />
