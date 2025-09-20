@@ -28,13 +28,19 @@ TOOL CHECK
 
 
 
+
+
 Yosys
 
 
 $ sudo apt-get update
 
 
+
+
 $ git clone https://github.com/YosysHQ/yosys.git
+
+
 
 
 $ cd yosys
@@ -67,10 +73,20 @@ $ make
 $ sudo make install
 
 
+
+
+
+
+
 Alt Text
 
 
 <img width="799" height="207" alt="Screenshot from 2025-09-20 16-20-18" src="https://github.com/user-attachments/assets/f85766fb-d0d5-4b9f-a5cb-c21f0274b682" />
+
+
+
+
+
 
 
 
